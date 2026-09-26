@@ -16,8 +16,6 @@
 |---|---|---|
 | **[BATON](https://github.com/psj-png)** | 대학 동아리·소규모 조직 인수인계 자동화 웹서비스 (멋사 14기) | AI 인터뷰, 핸드오버 문서 생성 |
 | **site-to-finance** | KB AI Challenge — 의료 개원 입지 생존분석 → 금융 조달·DSCR 파이프라인 | Cox PH, Huff 배후인구, LLM 리포트 |
-| **전력설비 화재 위험도** | 날씨 빅데이터 콘테스트 — 강원도 전주 138만개 기상·GIS 위험지수 | DEM, QGIS, 복합위험지수 설계 |
-| **국어 문제 생성기** | 사립고 내신 변형문제 자동 생성 로컬 AI | Ollama, RAG + LoRA, Streamlit |
 | **직무 체험 시뮬레이션** | 취준생 대상 제품디자이너 직무 체험 MVP (AI 파트) | 프롬프트 튜닝, 분기 시나리오 |
 
 ### 📂 Past Projects
